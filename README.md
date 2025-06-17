@@ -1,2 +1,3 @@
-# xintra_labs
-APT Incident write-ups from Xintra lab.
+# xintra labs writeups
+
+xintra labs is a platform featuring simulated incidents based on various APT groups. This repository contains investigation write-ups for those scenarios.
